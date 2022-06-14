@@ -1,2 +1,3 @@
 # PrivacyDetect
- a toy for android detection
+
+homework for the foundation of data science
